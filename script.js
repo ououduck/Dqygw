@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const dynamicText = document.getElementById('dynamicText');
     if (dynamicText) {
-        const text = "您好，欢迎来到宝盈网络技术有限公司";
+        const text = "您好，欢迎来到D工作室";
         let index = 0;
 
         function typeText() {
